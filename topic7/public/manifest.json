@@ -1,0 +1,8 @@
+{
+  "short_name": "React Hands-on",
+  "name": "Topic 7 Props validation - Proptypes",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

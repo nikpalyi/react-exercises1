@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 3rem;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#title {
+  text-align: center;
+  font-family: arial, sans-serif;
+}
+
+#employees {
+  text-align: center;
+  font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  border: 3px dashed green;
+  width: 100%;
+}
+
+#employees td,
+#employees th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#employees tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#employees tr:hover {
+  background-color: #ddd;
+}
+
+#employees th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: cyan;
+  color: grey;
+}
+
+#multiplications {
+  text-align: center;
+  font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  border: 3px solid grey;
+  width: 100%;
+}
+
+#multiplications td,
+#multiplications th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#multiplications tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#multiplications tr:hover {
+  background-color: #ddd;
+}
+
+#multiplications th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: papayawhip;
+  color: grey;
+}
